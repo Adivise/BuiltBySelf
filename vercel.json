@@ -1,7 +1,4 @@
 {
   "version": 3,
-  "framework": "nextjs",
-  "build": {
-    "command": "npm run build"
-  }
+  "framework": "nextjs"
 }
