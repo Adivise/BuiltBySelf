@@ -1,0 +1,6 @@
+.previewCanvas {
+  display: block;
+  border-radius: var(--banner-radius);
+  max-width: var(--banner-max-width);
+}
+
